@@ -2,7 +2,7 @@
 :root {
     --first-color: rgb(246, 244, 237);
     --secondary-color: rgb(219, 204, 163);
-    --text-color: rgb(59, 49, 40);
+    --text-color: rgb(128,128,128);
     --secondary-text-color: rgb(110, 97, 81);
     --shadow: 0px 1px 2px rgba(170, 170, 170, .4);
     --font-family: 'Inter', sans-serif;
@@ -16,7 +16,7 @@
 
 body {
     font-family: var(--font-family);
-    color: var(--text-color);
+    /* color: white; */
     background-color: var(--first-color);
 }
 
